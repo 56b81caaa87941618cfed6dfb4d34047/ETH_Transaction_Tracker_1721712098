@@ -30,5 +30,11 @@
         "content": "add a sidebar with the navlinks home, about and contact",
         "timestamp": "23072024052318",
         "message_id": "guest23072024052318"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be always visible or should it be collapsible?\", \"option1\": \"Always visible\", \"option2\": \"Collapsible with a button to open/close\"}, {\"question 2\": \"Do you have a preference for the placement of the sidebar?\", \"option1\": \"On the left side of the screen\", \"option2\": \"On the right side of the screen\"}], \"input_token_count\": 266, \"output_token_count\": 96, \"time_taken\": \"0:00:03.787980\"}",
+        "timestamp": "23072024052323",
+        "message_id": "guest23072024052318"
     }
 ]
