@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add interactive tooltips to explain app features\", \"checked\": true}, {\"feature\": \"Implement a real-time transaction update feed\", \"checked\": true}, {\"feature\": \"Include a search function to filter Ethereum transactions by address\", \"checked\": false}, {\"feature\": \"Incorporate a feature to bookmark favorite transactions\", \"checked\": false}, {\"feature\": \"Add customizable notification alerts for new transactions\", \"checked\": true}, {\"feature\": \"Integration with Ethereum wallets for direct transaction tracking\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 109, \"time_taken\": \"0:00:05.111784\"}",
         "timestamp": "23072024052222",
         "message_id": "guest23072024052215"
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the navlinks home, about and contact",
+        "timestamp": "23072024052318",
+        "message_id": "guest23072024052318"
     }
 ]
