@@ -36,5 +36,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be always visible or should it be collapsible?\", \"option1\": \"Always visible\", \"option2\": \"Collapsible with a button to open/close\"}, {\"question 2\": \"Do you have a preference for the placement of the sidebar?\", \"option1\": \"On the left side of the screen\", \"option2\": \"On the right side of the screen\"}], \"input_token_count\": 266, \"output_token_count\": 96, \"time_taken\": \"0:00:03.787980\"}",
         "timestamp": "23072024052323",
         "message_id": "guest23072024052318"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic search bar to instantly filter Ethereum transactions\", \"checked\": true}, {\"feature\": \"Real-time notifications for new transactions and updates\", \"checked\": false}, {\"feature\": \"User profile section to save and monitor favourite transactions\", \"checked\": true}, {\"feature\": \"Interactive charts for transaction analytics over time\", \"checked\": false}, {\"feature\": \"FAQ section for help and guidance on navigating the app\", \"checked\": true}, {\"feature\": \"Dark mode toggle for user preference in UI\", \"checked\": false}], \"input_token_count\": 220, \"output_token_count\": 111, \"time_taken\": \"0:00:06.418693\"}",
+        "timestamp": "23072024052326",
+        "message_id": "guest23072024052318"
     }
 ]
